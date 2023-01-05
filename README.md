@@ -1,4 +1,4 @@
-# webiste_visitIndonesia
+# website_visitIndonesia
 
 Website ini dibuat untuk memenuhi tugas akhir dari salah satu mata kuliah di semester 3 yaitu Pemrograman Website
 
